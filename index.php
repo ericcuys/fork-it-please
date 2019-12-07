@@ -10,7 +10,19 @@
   ?>
 
   <!-- Page Content -->
-  <div class="container"></div>
+  <div class="container">
+    
+    <img class="img-fluid rounded mb-4 mb-lg-0" src="image/studio.jpg" alt="">
+
+
+
+
+
+
+
+
+
+  </div>
   <!-- /.container -->
 
  <?php include_once("./components/footer.php"); ?>
